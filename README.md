@@ -5,7 +5,7 @@
 Terminal adventure game is a text based adventure made with Javascript.
 Enter this fantastic world of castle, magic and treasure. 
 
-*Will you be  able to find the long lost treasure!*
+**Will you be  able to find the long lost treasure!**
 
 [comment]: # (content table - requirement, installation, usage, feature, snapshot, license)
 ## Content table
