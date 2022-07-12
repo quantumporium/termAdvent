@@ -1,5 +1,5 @@
 [comment] # (below is the link for the banner)
-
+![](ressources/banner.png)
 
 [comment] # (quick introduction of terminal adventure game / in javascript)
 
