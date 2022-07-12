@@ -14,7 +14,7 @@ Enter this fantastic world of castle, magic and treasure.
 - Usage
 - Feature
 - Snapshot
-- [License](#license:)
+- [License](#License:)
 [comment]: # (requirement - what you need to be able to play the game)
 
 [comment]: # (installation - how to install it on all platform)
