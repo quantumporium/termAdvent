@@ -2,10 +2,19 @@
 ![](ressources/banner.png)
 
 [comment]: # (quick introduction of terminal adventure game / in javascript)
+Terminal adventure game is a text based adventure made with Javascript.
+Enter this fantastic world of castle, magic and treasure. 
 
+*Will you be  able to find the long lost treasure!*
 
 [comment]: # (content table - requirement, installation, usage, feature, snapshot, license)
-
+## Content table
+- Requirement
+- Installation
+- Usage
+- Feature
+- Snapshot
+- [License](#license:)
 [comment]: # (requirement - what you need to be able to play the game)
 
 [comment]: # (installation - how to install it on all platform)
