@@ -1,0 +1,52 @@
+[
+	{
+		"room_nb": 0,
+		"room_description": "this is room 0 ....",
+		"choices": ["go forward and inside the castle", "go bacward and do not enter the dungeon"],
+		"nb_choices": 2,
+		"nx_room": 1,
+		"pr_room": -1
+		
+	},
+	{
+		"room_nb": 1,
+		"room_description": "this is room 1 ....",
+		"choices": ["Open the door and go inside the other room", "go out of the dungeon"],
+		"nb_choices": 2,
+		"nx_room": 2,
+		"pr_room": 0
+	},
+	{
+		"room_nb": 2,
+		"room_description": "this is room 2 ....",
+		"choices": ["Open the door and go inside the other room", "go out of the dungeon"],
+		"nb_choices": 2,
+		"nx_room": 3,
+		"pr_room": 1
+	},
+	{
+		"room_nb": 3,
+		"room_description": "this is room 3 ...",
+		"choices": ["Open the door and go inside the other room", "go out of the dungeon"],
+		"nb_choices": 2,
+		"nx_room": 4,
+		"pr_room": 2
+	},
+	{
+		"room_nb": 4,
+		"room_description": "this is room 4 ....",
+		"choices": ["Open the door and go inside the other room", "go out of the dungeon"],
+		"nb_choices": 2,
+		"nx_room": 5,
+		"pr_room": 3
+	},
+	{
+		"room_nb": 5,
+		"room_description": "this is room 5 ....",
+		"choices": ["Open the door and go insde the other room", "go out of the dunfeon"],
+		"nb_choices": 2,
+		"nx_room": 10,
+		"pr_room": 4
+	}
+
+]
