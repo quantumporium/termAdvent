@@ -14,16 +14,22 @@ Enter this fantastic world of castle, magic and treasure.
 - Usage
 - Feature
 - Snapshot
-- [License](#License:)
+- License
 [comment]: # (requirement - what you need to be able to play the game)
+## Requirement
+You need to have or install prompt-sync in order for this software to work correctly.
+Install it with npm. By using the command: ``npm i prompt-sync``
 
 [comment]: # (installation - how to install it on all platform)
+## Installation
+You install this software by copying this directory in your local machine.
 
 [comment]: # (usage - how to play)
+To play Terminal Adventure just start the termAdvent.js file in your terminal.
 
-[comment]: # (feature - what make it special)
-
-[comment]: # (snapshot - some picture from the gameplay)
+``
+$ ./termAdvent.js # this only work in linux based system
+``
 
 [comment]: # (license - explained the license)
 ## License:
