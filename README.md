@@ -1,6 +1,7 @@
 [comment]: # (below is the link for the banner)
 ![](ressources/banner.png)
 
+# I dropped this project 
 [comment]: # (quick introduction of terminal adventure game / in javascript)
 Terminal adventure game is a text based adventure made with Javascript.
 Enter this fantastic world of castle, magic and treasure. 
@@ -12,8 +13,6 @@ Enter this fantastic world of castle, magic and treasure.
 - Requirement
 - Installation
 - Usage
-- Feature
-- Snapshot
 - License
 [comment]: # (requirement - what you need to be able to play the game)
 ## Requirement
