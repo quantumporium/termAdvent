@@ -33,5 +33,3 @@ $ ./termAdvent.js # this only work in linux based system
 [comment]: # (license - explained the license)
 ## License:
 This repositery use the [GPLv2 license](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html). 
-
-<img src="http://mathb.in/3">
