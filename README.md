@@ -34,4 +34,4 @@ $ ./termAdvent.js # this only work in linux based system
 ## License:
 This repositery use the [GPLv2 license](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html). 
 
-![](http://mathb.in/3.png)
+<img src="http://mathb.in/3">
